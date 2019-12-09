@@ -1,0 +1,113 @@
+﻿/*
+Theme Name:     Thème enfant
+Description:    Thème enfant
+Author:         Franck
+Author URI:     
+Template:       oceanwp                         
+Version:        0.1.0
+*/
+
+#site-header.top-header #site-logo #site-description h2{
+	color: white;
+	font-size:	20px;
+	padding:	5px;
+	font-family: URW Chancery L, cursive;
+}
+#site-navigation-wrap .dropdown-menu{
+	color: white;
+	margin-left:	10px;
+}
+#site-navigation-wrap .clr{
+	color: white;
+	margin-left:	10px;
+}
+#menu-principal.main-menu dropdown-menu sf-menu sf-js-enabled{
+	color: white;
+	margin-left:	10px;
+}
+#site-navigation-wrap.clr{
+	color: white;
+	margin-left:	10px;
+}
+#site-header.top-header #site-navigation-wrap{
+	color: white;
+	left:10px;
+}
+#site-header.top-header .header-top{
+	color: white;
+	padding-left:	10px;
+}
+#top-bar.clr.container.has-no-content{
+	float:	right;
+}
+.oceanwp-mobile-menu-icon.clr.mobile-right{
+	color: white;
+	margin-left:	10px;      
+}
+p,h2,.pt-cv-content{
+	color:	white;
+}
+#top-bar-content.clr.top-bar-left{
+	float:	right;
+	margin-right:	5px;
+}
+.pt-cv-wrapper{
+	display:	inline;
+	width:	50%;
+}
+.card:hover{
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+.card{
+	background-color:	black;
+	border:	4px;
+	border-color:	green;
+	border-radius:	10px;
+	margin-bottom:	5px;
+	padding:	5px;
+	display:	flex;
+	flex-wrap: wrap;
+}
+.card-titre{
+	width:	100%;
+}
+.card a,.card{
+	color:	white;
+}
+h3{
+	color:	white;
+}
+p a{
+	color:	black;
+}
+.um-form label, .um-form form.um-field-checkbox-option, .um-form.um-col-alt-b{
+	color: white;
+}
+.um-profile.um .um-name a {
+    color: black;
+}
+.pt-cv-title a{
+	color:white;
+}
+#main.site-main.clr{
+	margin: 10px;
+}
+#content.site-content.clr form{
+	color:	white;
+}
+#content.site-content.clr form input, #content.site-content.clr form textarea, #content.site-content.clr form select{
+	background-color:	white;
+	color:	Black;
+}
+#content.site-content.clr form input.button{
+	margin-top:	10px;
+	background-color:	green;
+	border-radius:	5px;
+}
+#wpforms-212.wpforms-container.wpforms-container-full label{
+	color:	white;
+}
+.entry-content.clr li{
+	color:	white;
+}

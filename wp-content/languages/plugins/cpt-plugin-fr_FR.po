@@ -1,0 +1,490 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Post Type UI\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-12 09:36+0100\n"
+"PO-Revision-Date: 2013-03-12 10:06+0100\n"
+"Last-Translator: Samy Rabih <contact@lahaut.info>\n"
+"Language-Team: Samy Rabih <contact@lahaut.info>\n"
+"Language: FRENCH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: F:\\sites\\ocra\\wp\\wp-content\\plugins\\custom-post-"
+"type-ui\n"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:460
+msgid "Custom Post Type UI"
+msgstr "Custom Post Types UI"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:461
+msgid "Plugin version"
+msgstr "Version de l'extension"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:462
+msgid "WordPress version"
+msgstr "Version de Wordpress"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:465
+msgid "Help Support This Plugin!"
+msgstr "Soutenez cette extension Wordpress !"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:468
+msgid "PayPal Donation"
+msgstr "Donation PayPal"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:469
+msgid "Professional WordPress"
+msgstr "Professional WordPress"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:470
+msgid "Professional WordPress<br />Plugin Development"
+msgstr "Professional WordPress<br />Plugin Development"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:488
+msgid "Frequently Asked Questions"
+msgstr "Questions fréquentes"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:499
+msgid "Slightly Outdated Demo Video"
+msgstr ""
+"Vidéo de démonstration (légèrement obsolète, l'extension a évolué depuis)"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:501
+msgid "Latest WebDevStudios.com News"
+msgstr "Dernières actualités de WebDevStudios.com"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:507
+msgid "WebDevStudios.com News"
+msgstr "Actualités de WebDevStudios.com"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:534
+msgid "Custom post type deleted successfully"
+msgstr "Le type d'article personnalisé a été supprimé avec succès"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:540
+msgid "Manage Custom Post Types"
+msgstr "Gérer les types d'articles"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:541
+msgid ""
+"Deleting custom post types does <strong>NOT</strong> delete any content "
+"added to those post types.  You can easily recreate your post types and the "
+"content will still exist."
+msgstr ""
+"Supprimer des types d'article personnalisés <strong>ne supprime</strong> "
+"aucun contenu saisi avec ces types d'article. Vous pouvez sans problème "
+"recréer les types d'article par la suite et le contenu sera toujours là."
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:549
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:564
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:817
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:830
+msgid "Action"
+msgstr "Actions"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:550
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:565
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:727
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:741
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:818
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:831
+msgid "Name"
+msgstr "Nom"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:551
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:566
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:728
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:742
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:819
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:832
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1067
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1320
+msgid "Label"
+msgstr "Intitulé"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:552
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:567
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:730
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:744
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1163
+msgid "Public"
+msgstr "Générer une interface d'édition"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:553
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:568
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:731
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:745
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:823
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:836
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1173
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1442
+msgid "Show UI"
+msgstr "Générer une interface"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:554
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:569
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:733
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:747
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:822
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:835
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1208
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1432
+msgid "Hierarchical"
+msgstr "Hiérarchique"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:555
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:570
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:824
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:837
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1218
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1462
+msgid "Rewrite"
+msgstr "Supporte la réécriture d'URL (\"Rewrite\")"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:556
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:571
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:734
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:735
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:748
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:749
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:825
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:838
+msgid "Rewrite Slug"
+msgstr "Mot-clé d'URL"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:557
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:572
+msgid "Total Published"
+msgstr "Nombre d'éléments publiés"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:558
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:573
+msgid "Total Drafts"
+msgstr "Nombre de brouillons"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:559
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:574
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1258
+msgid "Supports"
+msgstr "Fonctionnalités supportées"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:693
+msgid ""
+"Place the below code in your themes functions.php file to manually create "
+"this custom post type"
+msgstr ""
+"Placez le code ci-dessous dans votre fichier functions.php pour créer "
+"manuellement ce type d'article personnalisé"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:694
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:914
+msgid ""
+"This is a <strong>BETA</strong> feature.  Please <a href=\"http://"
+"webdevstudios.com/support/forum/custom-post-type-ui/\">report bugs</a>."
+msgstr ""
+"Il s'agit d'une fonctionnalité encore en <strong>BETA</strong>. N'hésitez "
+"pas à <a href=\"http://webdevstudios.com/support/forum/custom-post-type-ui/"
+"\">signaler des bugs</a>."
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:716
+msgid "Additional Custom Post Types"
+msgstr "Types d'article supplémentaires"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:717
+msgid ""
+"The custom post types below are registered in WordPress but were not created "
+"by the Custom Post Type UI Plugin."
+msgstr ""
+"Les types d'articles personnalisés ci-dessous ont été activés dans Wordpress "
+"mais n'ont pas été crées avec cette extension."
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:729
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:743
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:820
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:833
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1072
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1325
+msgid "Singular Label"
+msgstr "Nom de l'élément seul"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:732
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:746
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1203
+msgid "Capability Type"
+msgstr "Capacités (\"Capability Type\")"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:736
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:750
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1233
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1452
+msgid "Query Var"
+msgstr "Variable de recherche (pour les URL)"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:777
+msgid "No additional post types found"
+msgstr "Aucun type d'article supplémentaire trouvé"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:801
+msgid "Custom taxonomy deleted successfully"
+msgstr "La taxonomie personnalisée a été supprimée avec succès"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:807
+msgid "Manage Custom Taxonomies"
+msgstr "Gérer les taxonomies personnalisées"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:808
+msgid ""
+"Deleting custom taxonomies does <strong>NOT</strong> delete any content "
+"added to those taxonomies.  You can easily recreate your taxonomies and the "
+"content will still exist."
+msgstr ""
+"Supprimer des taxonomies personnalisées <strong>ne supprime</strong> aucun "
+"contenu saisi avec ces taxonomies. Vous pouvez sans problème recréer les "
+"taxonomies par la suite et le contenu sera toujours là."
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:821
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:834
+msgid "Attached Post Types"
+msgstr "Types d'article attachés"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:913
+msgid ""
+"Place the below code in your themes functions.php file to manually create "
+"this custom taxonomy"
+msgstr ""
+"Placez le code ci-dessous dans votre fichier functions.php pour créer "
+"manuellement cette taxonomie"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1015
+msgid ""
+"Custom post type created successfully.  You may need to refresh to view the "
+"new post type.  <a href=\""
+msgstr ""
+"Le type d'article personnalisé a été créée avec succès. Vous devez "
+"rafraîchir la page pour pouvoir le consulter.  <a href=\""
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1020
+msgid ""
+"Custom taxonomy created successfully.  You may need to refresh to view the "
+"new taxonomy.  <a href=\""
+msgstr ""
+"La taxonomie personnalisée a été créée avec succès. Vous devez rafraîchir la "
+"page pour pouvoir la consulter.  <a href=\""
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1026
+msgid "Post type name is a required field."
+msgstr "Le nom du type d'article doit être fourni."
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1030
+msgid "Taxonomy name is a required field."
+msgstr "Le nom de la taxonomie doit être fourni."
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1034
+msgid "You must assign your custom taxonomy to at least one post type."
+msgstr ""
+"Vous devez attribuer votre taxonomie personnalisée à un type d'article (au "
+"moins)."
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1041
+msgid "Edit Custom Post Type or Taxonomy"
+msgstr "Modifier le type d'article ou la taxonomie"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1041
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1043
+msgid "Reset"
+msgstr "Remettre à zéro"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1043
+msgid "Create New Custom Post Type or Taxonomy"
+msgstr "Créer un nouveau type d'article personnalisé"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1048
+msgid ""
+"If you are unfamiliar with the options below only fill out the <strong>Post "
+"Type Name</strong> and <strong>Label</strong> fields and check which meta "
+"boxes to support.  The other settings are set to the most common defaults "
+"for custom post types."
+msgstr ""
+"Si vous ne savez pas quoi remplir, remplissez juste le champ <strong>Nom du "
+"type d'article</strong> et <strong>Intitulé</strong>, et cochez les cases "
+"des fonctionnalités. Les autres réglages seront par défaut les plus utilisés."
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1059
+msgid "Post Type Name"
+msgstr "Nom du CPT"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1062
+msgid "Max 20 characters, can not contain capital letters or spaces"
+msgstr ""
+"20 caractères au maximum, pas de majuscules ou d'espaces (tirets autorisés)"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1078
+msgid "Description"
+msgstr "Description"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1085
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1356
+msgid "Advanced Label Options"
+msgstr "Options de nommage avancées"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1086
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1357
+msgid "Advanced Options"
+msgstr "Options avancées"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1094
+msgid ""
+"Below are the advanced label options for custom post types.  If you are "
+"unfamiliar with these labels the plugin will automatically create labels "
+"based off of your custom post type name"
+msgstr ""
+"Vous trouverez ci-dessous les options de nommage avancées pour les types "
+"d'article personnalisés (pour paramétrer au mieux les intitulés associés). "
+"Si vous ne savez pas quoi mettre, l'extension complètera automatiquement les "
+"cases à partir du nom de votre type d'article."
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1098
+msgid "Menu Name"
+msgstr "Nom du menu"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1103
+msgid "Add New"
+msgstr "Ajouter"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1108
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1403
+msgid "Add New Item"
+msgstr "Ajouter un nouvel élément"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1113
+msgid "Edit"
+msgstr "Modifier"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1118
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1393
+msgid "Edit Item"
+msgstr "Modifier l'élément"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1123
+msgid "New Item"
+msgstr "Nouvel élément"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1128
+msgid "View"
+msgstr "Voir"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1133
+msgid "View Item"
+msgstr "Voir l'élément"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1138
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1368
+msgid "Search Items"
+msgstr "Chercher les élements"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1143
+msgid "Not Found"
+msgstr "Aucun résultat"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1148
+msgid "Not Found in Trash"
+msgstr "Aucun élement trouvé dans la Corbeille"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1153
+msgid "Parent"
+msgstr "Item \"parent\""
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1183
+msgid "Has Archive"
+msgstr "Possède des archives"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1193
+msgid "Exclude From Search"
+msgstr "A exclure des recherches"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1228
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1472
+msgid "Custom Rewrite Slug"
+msgstr "Mot-clé d'URL (\"slug\")"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1243
+msgid "Menu Position"
+msgstr "Position du menu"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1248
+msgid "Show in Menu"
+msgstr "Afficher dans le menu"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1274
+msgid "Built-in Taxonomies"
+msgstr "Taxonomies associées"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1306
+msgid ""
+"If you are unfamiliar with the options below only fill out the "
+"<strong>Taxonomy Name</strong> and <strong>Post Type Name</strong> fields.  "
+"The other settings are set to the most common defaults for custom taxonomies."
+msgstr ""
+"Si vous ne savez pas quoi remplir, remplissez juste le champ <strong>Nom de "
+"la taxonomie</strong> et <strong>Intitulé</strong>, et cochez les cases des "
+"fonctionnalités. Les autres réglages seront par défaut les plus utilisés."
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1315
+msgid "Taxonomy Name"
+msgstr "Nom de la taxonomie"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1330
+msgid "Attach to Post Type"
+msgstr "Relier à un type d'article"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1365
+msgid ""
+"Below are the advanced label options for custom taxonomies.  If you are "
+"unfamiliar with these labels the plugin will automatically create labels "
+"based off of your custom taxonomy name"
+msgstr ""
+"Vous trouverez ci-dessous les options de nommage avancées pour les "
+"taxonomies personnalisées (pour paramétrer au mieux les intitulés associés). "
+"Si vous ne savez pas quoi mettre, l'extension complètera automatiquement les "
+"cases à partir du nom du nom de votre taxonomie"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1373
+msgid "Popular Items"
+msgstr "Items populaires"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1378
+msgid "All Items"
+msgstr "Tous les items"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1383
+msgid "Parent Item"
+msgstr "Nom de l'item \"parent\""
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1388
+msgid "Parent Item Colon"
+msgstr "Nom de l'item \"parent\" (avec \":\")"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1398
+msgid "Update Item"
+msgstr "Mettre à jour l'élément"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1408
+msgid "New Item Name"
+msgstr "Nouvel élément"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1413
+msgid "Separate Items with Commas"
+msgstr "Séparez les éléments par des virgules"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1418
+msgid "Add or Remove Items"
+msgstr "Ajouter ou enlever des éléments"
+
+#: F:\sites\ocra\wp\wp-content\plugins\custom-post-type-ui/custom-post-type-ui.php:1423
+msgid "Choose From Most Used"
+msgstr "Choisir parmi les plus utilisés"
